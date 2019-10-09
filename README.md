@@ -1,2 +1,2 @@
-# my-first-repository
-This is my repository post, nothing to do here, just an experiment.
+# My First Repository
+This is my first repository, nothing to do here, just an experiment.
